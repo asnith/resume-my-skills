@@ -191,8 +191,8 @@
      	   
      }
      .text4{
-     	visibility: hidden;
-     	font-size: 1px;
+display:none;
+              font-size: 1px;
      }
      .resume {
      	text-align: center;
@@ -362,8 +362,7 @@
           .ol1 {
           	margin-left: 10vw;
           }
-       .text2 {
-       	visibility: hidden;
+       .text2 {display:none;
        }
       a {
      	text-decoration: none;
